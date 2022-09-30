@@ -4,7 +4,7 @@
 
 ---
 
-[Day 1](https://github.com/karangorania/quest-submission/blob/main/chapter%201/day1.md)
+[Day 1](https://github.com/karangorania/quest-submission/blob/main/chapter%201/day1.md)<br>
 [Day 2](https://github.com/karangorania/quest-submission/blob/main/chapter%201/day2.md)
 
 ## Chapter 2
