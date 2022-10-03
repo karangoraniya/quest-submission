@@ -48,7 +48,7 @@ In the `prepare` phase, the main aim is to access the information/data from your
 ```Cadence
     import HelloWorld from 0x01
 
-    pub fun main():String  {
+    pub fun main():Int  {
       return HelloWorld.myNumber
     }
 ```
