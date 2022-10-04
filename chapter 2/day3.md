@@ -1,6 +1,6 @@
 # Chapter 2
 
-## Day 1
+## Day 3
 
 #### 1. In a script, initialize an array (that has length == 3) of your favourite people, represented as `String`s, and `log` it.
 
