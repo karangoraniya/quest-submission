@@ -32,4 +32,4 @@ The force unwrap operator `!` uses to either condition suppose if there is `nil`
 - How to fix it
   We have to use the force wrap operator `return thing[0x03]!` or add optional where we declare the type `String?`, So it will either return type value or nil.
 
-<img src="../images/wrongcode.png" alt="drawing" size="400" />
+<img src="../images/1.png" alt="drawing" size="400" />
