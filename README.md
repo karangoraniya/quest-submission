@@ -20,3 +20,4 @@
 ## Chapter 3
 
 - [x] [Day 1] - [Resources](https://github.com/karangorania/quest-submission/blob/main/chapter%203/day1.md)
+- [x] [Day 2] - [Resources in Dictionaries & Arrays](https://github.com/karangorania/quest-submission/blob/main/chapter%203/day2.md)
