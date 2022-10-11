@@ -22,7 +22,7 @@ Let's take a example How Bitcoin works :-
 
 - Smarts contracts are simple programs which are stored in blockchain when certain conditions are met then it's run. It's similar to agreement between two people without a middleman. You can blindly trust. It can be written in different languages. Most popular is Solidity. It's differ to blockchains.
 
-3. Explain the difference between a script and a transaction.
+#### 3. Explain the difference between a script and a transaction.
 
 - Scripts are used to view data on the blockchain. It doesn't charge anything to view data.
 
