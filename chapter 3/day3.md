@@ -22,7 +22,7 @@ pub contract Crypto {
 
     init() {
         self.dictionaryOfCoin <- {
-            "Flow!": <- create Coins(_token: "Coin "),
+            "Flow": <- create Coins(_token: "Coin "),
             "Dogecoin": <- create Coins(_token: "Shit Coin")
         }
     }
@@ -35,8 +35,7 @@ pub contract Crypto {
 import Crypto from 0x01
 
 pub fun main(): String {
-  let ref = Crypto.getReference(key: "Flow")
-  let ref = Crypto.coinsReference(key: "flow") ?? panic("key not found")
+  let ref = Crypto.coinsReference(key: "Flow") ?? panic("key not found")
   return ref.token
 }
 ```
