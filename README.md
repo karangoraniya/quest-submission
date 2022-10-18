@@ -23,3 +23,4 @@
 - [x] [Day 2] - [Resources in Dictionaries & Arrays](https://github.com/karangorania/quest-submission/blob/main/chapter%203/day2.md)
 - [x] [Day 3] - [References](https://github.com/karangorania/quest-submission/blob/main/chapter%203/day3.md)
 - [x] [Day 4] - [Resource/Struct Interfaces](https://github.com/karangorania/quest-submission/blob/main/chapter%203/day4.md)
+- [x] [Day 5] - [Access Control](https://github.com/karangorania/quest-submission/blob/main/chapter%203/day5.md)
