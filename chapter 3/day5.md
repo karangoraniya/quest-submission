@@ -202,7 +202,7 @@ pub fun main() {
   /**************/
 }
 
-        // A : Read & Write
+        // A : Read
         // B : Read // Out of scope file write cannot access
         // C : Out of contract write
         // D : Out of scope
