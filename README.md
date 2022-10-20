@@ -24,3 +24,7 @@
 - [x] [Day 3] - [References](https://github.com/karangorania/quest-submission/blob/main/chapter%203/day3.md)
 - [x] [Day 4] - [Resource/Struct Interfaces](https://github.com/karangorania/quest-submission/blob/main/chapter%203/day4.md)
 - [x] [Day 5] - [Access Control](https://github.com/karangorania/quest-submission/blob/main/chapter%203/day5.md)
+
+## Chapter 4
+
+- [x] [Day 1] - [Account Storage](https://github.com/karangorania/quest-submission/blob/main/chapter%204/day1.md)
