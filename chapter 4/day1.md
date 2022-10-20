@@ -39,11 +39,15 @@ pub contract Blockchains {
     }
   }
 
-  pub fun createTest(): @Flow {
+  pub fun createFlowPrice(): @Flow {
     return <- create Flow()
   }
 
 }
+
+
+
+
 ```
 
 ##### i. A transaction that first saves the resource to account storage, then loads it out of account storage, logs a field inside the resource, and destroys it.
