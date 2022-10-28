@@ -28,3 +28,4 @@
 ## Chapter 4
 
 - [x] [Day 1] - [Account Storage](https://github.com/karangorania/quest-submission/blob/main/chapter%204/day1.md)
+- [x] [Day 2] - [Capabilities](https://github.com/karangorania/quest-submission/blob/main/chapter%204/day2.md)
