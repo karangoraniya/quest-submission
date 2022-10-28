@@ -45,7 +45,6 @@ transaction() {
 
   prepare(signer: AuthAccount) {
 
-    // It will Save the resource to account storage
     signer.save(<- Blockchains.createFlowPrice(), to: /storage/MyFlowResource)
 
     signer.link<&Blockchains.Flow{Blockchains.IFlow}>(/public/MyFlowResource, target: /storage/MyFlowResource)
