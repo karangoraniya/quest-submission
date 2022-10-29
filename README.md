@@ -29,3 +29,5 @@
 
 - [x] [Day 1] - [Account Storage](https://github.com/karangorania/quest-submission/blob/main/chapter%204/day1.md)
 - [x] [Day 2] - [Capabilities](https://github.com/karangorania/quest-submission/blob/main/chapter%204/day2.md)
+- [x] [Day 3] - [Creating an NFT Contract: Collections (Part 1/3)](https://github.com/karangorania/quest-submission/blob/main/chapter%204/day3.md)
+- [x] [Day 4] - [Creating an NFT Contract: Transferring, Minting, and Borrowing (Part 2/3)]()
